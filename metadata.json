@@ -1,0 +1,6 @@
+{
+  "name": "Mundial 3D",
+  "description": "Explorador 3D interactivo de estadios de la Copa Mundial y álbum de cromos 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
